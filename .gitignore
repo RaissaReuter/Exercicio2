@@ -11,8 +11,6 @@ package-lock.json
 # arquivos de configuração do Cypress
 /cypress
 
-cypress.config.js
-
 
 # arquivos de log
 npm-debug.log*
